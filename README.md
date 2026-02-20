@@ -1,4 +1,4 @@
-# Prova Finale di Ingegneria del Software - AA 2022-2023
+# Software Engineering Project - AA 2022-2023
 
 The project consists in the digital implementation of a board game called MyShelfie
 engineered by:
