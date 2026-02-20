@@ -1,0 +1,45 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/*
+/.idea/
+/.idea/shelf/
+.idea/libraries/
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+/.idea/workspace.xml
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### Mac OS ###
+.DS_Store
+
+### Classes ###
+/src/main/java/it/polimi/ingsw/Model/Main.java
+/src/main/java/it/polimi/ingsw/Main.java
+
+### Game assets ###
+/src/main/resources/17_MyShelfie_BGA/
+/src/main/resources/assets/boards
+/src/main/resources/assets/common goal cards
+/src/main/resources/assets/item tiles
+/src/main/resources/assets/misc
+/src/main/resources/assets/personal goal cards
+/src/main/resources/assets/Publisher material
+/src/main/resources/assets/scoring tokens
